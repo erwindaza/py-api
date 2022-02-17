@@ -1,4 +1,4 @@
-#Wheather Python API
+#Weather Python API
 
 Api for weather data analisys!!!
 
